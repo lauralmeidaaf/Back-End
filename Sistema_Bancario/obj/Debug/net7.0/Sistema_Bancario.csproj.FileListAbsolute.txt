@@ -1,0 +1,5 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\09_Heranca.Polimorfismo\obj\Debug\net7.0\09_Heranca.Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\09_Heranca.Polimorfismo\obj\Debug\net7.0\09_Heranca.Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\09_Heranca.Polimorfismo\obj\Debug\net7.0\09_Heranca.Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\09_Heranca.Polimorfismo\obj\Debug\net7.0\09_Heranca.Polimorfismo.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\09_Heranca.Polimorfismo\obj\Debug\net7.0\09_Heranca.Polimorfismo.csproj.CoreCompileInputs.cache

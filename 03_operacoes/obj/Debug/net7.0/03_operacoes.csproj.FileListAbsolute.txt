@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\bin\Debug\net7.0\03_operacoes.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\bin\Debug\net7.0\03_operacoes.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\bin\Debug\net7.0\03_operacoes.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\bin\Debug\net7.0\03_operacoes.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\bin\Debug\net7.0\03_operacoes.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\refint\03_operacoes.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\03_operacoes.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\03_operacoes\obj\Debug\net7.0\ref\03_operacoes.dll

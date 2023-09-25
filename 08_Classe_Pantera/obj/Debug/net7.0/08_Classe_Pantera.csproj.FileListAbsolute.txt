@@ -1,0 +1,5 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso DEV\2semestre\Back-End\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.csproj.CoreCompileInputs.cache
